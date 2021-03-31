@@ -132,7 +132,7 @@ android {
         applicationId "com.react_delivery_boy"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        ndkVersion "21.3.6528147"
+        ndkVersion "22.1.7171670"
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
