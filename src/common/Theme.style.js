@@ -18,7 +18,7 @@ export default {
   consumerSecret: '46958a8d16168578370c75b7f7', // Your consumer secret
 
   /////// navigation
-  homeTitle: 'Health Pad',
+  homeTitle: 'Delivery Buddy',
   bottomNavigation: false,
   // please reset app cache after changing these five values
   defaultCurrency: '&#36;',
@@ -32,11 +32,11 @@ export default {
   statusBarColor: '#0055cb',
 
   primaryDark: '#0055cb',
-  primary: '#3980ff',
+  primary: '#FFD86C',
   // primaryLight: '#8096bf',
-  primaryLight: '#8fd6ee',
+  primaryLight: '#000',
   // secondry: '#4d4d4d',
-  secondry: '#86888f',
+  secondry: '#000',
   // backgroundColor: '#fdfcfa',
   backgroundColor: '#ffffff',
 
@@ -44,7 +44,7 @@ export default {
 
   loadingIndicatorColor: '#3980ff',
 
-  textColor: '#fff',
+  textColor: '#000',
   largeSize: 16,
   mediumSize: 14,
   smallSize: 12,

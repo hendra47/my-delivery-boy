@@ -273,7 +273,7 @@ class RewardPoints extends Component {
     return (
       <View style={{flex: 1, backgroundColor: '#fff'}}>
         <StatusBar
-          backgroundColor={themeStyle.statusBarColor}
+          backgroundColor={themeStyle.primary}
           barStyle="light-content"
           borderBottomWidth={0}
         />
