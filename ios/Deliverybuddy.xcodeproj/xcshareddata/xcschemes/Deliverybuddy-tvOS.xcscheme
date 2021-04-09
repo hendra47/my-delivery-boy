@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "react_delivery_boy-tvOS.app"
-               BlueprintName = "react_delivery_boy-tvOS"
-               ReferencedContainer = "container:react_delivery_boy.xcodeproj">
+               BuildableName = "Deliverybuddy-tvOS.app"
+               BlueprintName = "Deliverybuddy-tvOS"
+               ReferencedContainer = "container:Deliverybuddy.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "react_delivery_boy-tvOSTests.xctest"
-               BlueprintName = "react_delivery_boy-tvOSTests"
-               ReferencedContainer = "container:react_delivery_boy.xcodeproj">
+               BuildableName = "Deliverybuddy-tvOSTests.xctest"
+               BlueprintName = "Deliverybuddy-tvOSTests"
+               ReferencedContainer = "container:Deliverybuddy.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "react_delivery_boy-tvOS.app"
-            BlueprintName = "react_delivery_boy-tvOS"
-            ReferencedContainer = "container:react_delivery_boy.xcodeproj">
+            BuildableName = "Deliverybuddy-tvOS.app"
+            BlueprintName = "Deliverybuddy-tvOS"
+            ReferencedContainer = "container:Deliverybuddy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "react_delivery_boy-tvOS.app"
-            BlueprintName = "react_delivery_boy-tvOS"
-            ReferencedContainer = "container:react_delivery_boy.xcodeproj">
+            BuildableName = "Deliverybuddy-tvOS.app"
+            BlueprintName = "Deliverybuddy-tvOS"
+            ReferencedContainer = "container:Deliverybuddy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

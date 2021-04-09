@@ -44,11 +44,11 @@ def flipper_post_install(installer)
   end
 end
 
-target 'react_delivery_boy' do
+target 'Deliverybuddy' do
 
   # add pods for desired Firebase products
 # https://firebase.google.com/docs/ios/setup#available-pods
-  # Pods for react_delivery_boy
+  # Pods for Deliverybuddy
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -92,7 +92,7 @@ target 'react_delivery_boy' do
 
   pod 'react-native-background-actions', :path => '../node_modules/react-native-background-actions'
 
-  target 'react_delivery_boyTests' do
+  target 'DeliverybuddyTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -109,10 +109,10 @@ target 'react_delivery_boy' do
   end
 end
 
-target 'react_delivery_boy-tvOS' do
-  # Pods for react_delivery_boy-tvOS
+target 'Deliverybuddy-tvOS' do
+  # Pods for Deliverybuddy-tvOS
 
-  target 'react_delivery_boy-tvOSTests' do
+  target 'Deliverybuddy-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

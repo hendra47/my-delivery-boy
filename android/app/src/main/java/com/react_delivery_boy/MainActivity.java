@@ -15,6 +15,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "react_delivery_boy";
+    return "Deliverybuddy";
   }
 }

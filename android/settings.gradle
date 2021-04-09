@@ -1,4 +1,4 @@
-rootProject.name = 'react_delivery_boy'
+rootProject.name = 'Deliverybuddy'
 include ':react-native-background-actions'
 project(':react-native-background-actions').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-background-actions/android')
 include ':@react-native-community_geolocation'
